@@ -1,4 +1,4 @@
----
+<!-- ---
 title: A post with code samples
 date: '2019-06-18'
 tags:
@@ -61,4 +61,4 @@ Finally, we use CSS transforms to `translateX(-50%)`. Because the transform work
 
 ## Wrapping up
 
-Hopefully this short and sweet trick will help you out on your projects. If it does, [drop me a tweet](https://twitter.com/andybelldesign), because I’d love to see it!
+Hopefully this short and sweet trick will help you out on your projects. If it does, [drop me a tweet](https://twitter.com/andybelldesign), because I’d love to see it! -->
