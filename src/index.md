@@ -22,8 +22,8 @@ Outside school and work, I enjoy playing music in various Edmonton community ban
 
 # Experience
 
-| Position          | Company                       | Years       |
-| -----------------:|:-----------------------------:| -----------:|
-| Software Developer| Sicle Cell Foundation Alberta | 2020-Current|
-| Student           | University of Alberta         | 2020- 2021  |
-| Teaching Assistant| University of Alberta         |   2019-2020 |
+| Position          | Company               | Years       |
+| :---------------- |:---------------------:| -----------:|
+| Software Developer| [SCFA](https://ourscfa.org)  | 2020-Current|
+| Student           | University of Alberta | 2020- 2021  |
+| Teaching Assistant| University of Alberta |   2019-2020 |
