@@ -1,6 +1,6 @@
 ---
 layout: home
-<div align="center" > title: Welcome!
+title: Welcomes! <div align="center">
 postsHeading: Current Projects
 archiveButtonText: See all projects
 # metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
