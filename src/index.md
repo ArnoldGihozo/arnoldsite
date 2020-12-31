@@ -23,13 +23,12 @@ Outside school and work, I enjoy playing music in various Edmonton community ban
 
 # Experience
 
-| Position          | Company               | Years       |
+<!-- | Position          | Company               | Years       |
 | :---------------- |:---------------------:| -----------:|
 | Software Developer| [SCFA](https://ourscfa.org)  | 2020-Current|
 | Software Developer| University of Alberta | 2019- 2020|
-| Teaching Assistant| University of Alberta |   2019-2020 |
+| Teaching Assistant| University of Alberta |   2019-2020 | -->
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
