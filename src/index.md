@@ -11,16 +11,19 @@ socialImage: ''
 # About me
 ![](/images/arnoldwebsitePic.jpeg)
 
-I am currently in my final year of computing science at the University of Alberta. Through the past 4 years I have been at ualberta, I have accomplished many projects. One of my passion is working in making a change within my community. I have worked with various organizations to bring Computer Science curriculems to high school and junio-high schools around Edmonton. I have also worked in creating events and compaigns promoting the culture diversity that we have on campus.
+Arnold Gihozo is a Fourth Year Computer Science at the University of Alberta. He has experience working in mobile development using Flutter, Android Studio and xCode. He is currently
+learning various programming language such as Go, and Rust, Swift and working on several projects. 
 
-Outside my advocacy work, I have been working in using my tech skills in making a change. I firmly believe that developing goes more than just code. As developers, we work into making a change within our environemtn whether we realize it or not. With that said, I have worked on various project such as Open Door project (git hub repo bellow) to improve the day-to-day tasks of the organization. Furthermore, I have worked on mobile application such as Mench PintSize application aiming to improve blood donations within the Albertan community.
+Outside programming, Arnold is invovled within his community where he uses his knowledge of computing science to bring a good change. Indeed, he lead and created a mobile application
+aimed to increase blood donation within minority community in Alberta. Furthermore, he is also actively involved in advocacy work both on campus and in the greater Alberta.
 
 Outside school and work, I enjoy playing music in various Edmonton community bands and sing in local choirs. I am an avid music enthusiat, loving music ranging from classical to Afrobeats/pop and jazz 🎶. In my free time, I enjoy sharpening my programming skills and working on small projects relating to the work I am passion in.
 
-# My Current Focus
-- Currently, I am working in building a music recommendation application aiming to give people the opportunity to discover music outside their known genre.
-- Continue the work with Pint Size project
-- Continue the work with SupportShip application
-- Finishing my undergraduate degree
-- Contribute in open source projects
-- Learning new skills and languages (Go, Rust)
+
+# Experience
+
+| Position          | Company                       | Years       |
+| ------------------|:-----------------------------:| -----------:|
+| Software Developer| Sicle Cell Foundation Alberta | 2020-Current|
+| Student           | University of Alberta         | 2020- 2021  |
+| Teaching Assistant| University of Alberta         |   2019-2020 |
