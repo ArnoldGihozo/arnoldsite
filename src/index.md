@@ -6,11 +6,13 @@ archiveButtonText: See all projects
 # metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
 socialImage: ''
 ---
-![](/images/arnoldwebsitePic.jpeg){.callout}
+![](/images/arnoldwebsitePic.jpeg#right)
 
-.callout {
+img[src*='#right'] {
     float: right;
 }
+
+
 ## About me
 <!-- <img style="float: right;" src= "/images/arnoldwebsitePic.jpeg"> -->
 
