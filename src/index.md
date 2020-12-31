@@ -10,7 +10,7 @@ socialImage: ''
 
 ## About me
 <!-- <img style="float: right;" src= "/images/arnoldwebsitePic.jpeg"> -->
-<img align="right" width="100" height="100" src="/images/arnoldwebsitePic.jpeg">
+<img align="right" width="50" height="80" src="/images/arnoldwebsitePic.jpeg">
 
 I am currently in my final year of computing science at the University of Alberta. Through the past 4 years I have been at ualberta, I have accomplished many projects. One of my passion is working in making a change within my community. I have worked with various organizations to bring Computer Science curriculems to high school and junio-high schools around Edmonton. I have also worked in creating events and compaigns promoting the culture diversity that we have on campus.
 
