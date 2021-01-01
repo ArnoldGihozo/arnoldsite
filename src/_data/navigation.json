@@ -16,8 +16,13 @@
       "external": true
     },
     {
+      "text": "About",
+      "url": "/about",
+      "external": false
+    }
+    {
       "text": "Contact",
-      "url": "/pages/contact.md",
+      "url": "/contact/index.html",
       "external": false
     }
   ]
