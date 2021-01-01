@@ -50,6 +50,11 @@ tr:nth-child(even) {
     <td>Sickle Cell Foundation of Alberta</td>
     <td>2020 - Current</td>
   </tr>
+    <tr>
+    <td>Back-End Developper</td>
+    <td>Supportship</td>
+    <td>2020 - Current</td>
+  </tr>
   <tr>
     <td>Software Developper</td>
     <td>University of Alberta</td>
