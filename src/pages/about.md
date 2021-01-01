@@ -1,10 +1,10 @@
 ---
 layout: layouts/page.njk
-title: About
+title: About Me
 permalink: /about/index.html
 ---
 
-# About me
+# Who is Arnold?
 ![](/images/arnoldwebsitePic.jpeg) Arnold Gihozo is a Fourth Year Computer Science at the University of Alberta. He has experience working in mobile development using Flutter, Android Studio and xCode. He is currently
 learning various programming language such as Go, and Rust, Swift and working on several projects. 
 
@@ -37,7 +37,7 @@ tr:nth-child(even) {
 </head>
 <body>
 
-<h3>Experience</h3>
+<h1>Experience</h1>
 
 <table>
   <tr>
