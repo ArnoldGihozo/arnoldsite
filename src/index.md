@@ -7,7 +7,4 @@ archiveButtonText: See all projects
 socialImage: ''
 ---
 
-<div align="center">
- Welcome
-</div>
-
+# hello
