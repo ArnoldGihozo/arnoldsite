@@ -20,6 +20,5 @@ Yours truly,
 
 Arnold Gihozo
 
-<https://www.youtube.com/watch?v=biOMz4puGt8>
 
 ![](https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-d01c8adc-0ba7-4712-aec0-abdf98b36b99-v1.png?transparent=1&palette=1)
